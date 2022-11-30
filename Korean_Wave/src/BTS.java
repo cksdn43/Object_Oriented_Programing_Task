@@ -58,7 +58,7 @@ public class BTS implements Kpop {
                     "데뷔일: 2013.6.13.\n",
                     "소속사: BIGHITMUSIC\n",
                     "BTS 유명곡: Dynamite - https://youtu.be/gdZLi9oWNZg\n",
-                    "BTS 노래목록: 봄날, Fake Love, DNA, IDOL",
+                    "BTS 노래목록: 봄날, Fake Love, DNA, IDOL\n",
                     "BTS 유튜브: https://www.youtube.com/@BTS\n",
                     "BTS에 더 자세히 알고싶다면? -> https://ibighit.com/bts/kor/\n",
                     "----------------------------------------------------------------------------\n" };
